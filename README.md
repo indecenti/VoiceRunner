@@ -22,15 +22,14 @@ CyberFlap is an enhanced Python/Pygame reimplementation of Flappy Bird with cybe
 
 
 ## Controls
-Action	Key/Button	Description
-Jump/Start	Space / A (gamepad)	Flap wings or voice shout
-AI Toggle	I	Enable/disable predictive AI
-Equalizer	E / Y (gamepad)	Show audio visualizer
-Speed Up	+	Increase obstacle speed
-Speed Down	-	Decrease obstacle speed
-Fullscreen	F	Toggle fullscreen
-Calibrate Voice	C	Start voice calibration
-Quit	ESC	Return to menu
+- Action	Key/Button	Description
+- Jump/Start	Space / A (gamepad)	Flap wings or voice shout
+- Equalizer	E / Y (gamepad)	Show audio visualizer
+- Speed Up	+	Increase obstacle speed
+- Speed Down	-	Decrease obstacle speed
+- Fullscreen	F	Toggle fullscreen
+- Calibrate Voice	C	Start voice calibration
+- Quit	ESC	Return to menu
 
 
 
