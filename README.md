@@ -1,6 +1,6 @@
-# CyberFlap - Cyberpunk Flappy Bird Clone
+# Voice Runner
 
-CyberFlap is an enhanced Python/Pygame reimplementation of Flappy Bird with cyberpunk neon aesthetics, AI assistance, voice controls, dynamic palettes, and advanced particle effects. Features shockwaves, debris trails, glitch text, multi-layer starfields, and procedural obstacle generation for endless replayability.
+Flappy Bird with voice controls, dynamic palettes, and advanced particle effects. Features shockwaves, debris trails, glitch text, multi-layer starfields, and procedural obstacle generation for endless replayability.
 
 ## Features
 - **Cyberpunk Visuals**: Dynamic neon palettes, bloom/glow shaders, shockwave explosions, rotating debris with trails.
